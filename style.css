@@ -1,0 +1,21 @@
+body {
+    background-image: url(tireddoggo.jpg);
+    background-size: auto;
+    display: flex;
+}
+
+h1 {
+    background-color: slategray;
+    padding: 10px;
+    margin: 10px;
+    border: solid 5px black;
+}
+
+#box { 
+    width: 100px; 
+    height: 100px; 
+    position: absolute; 
+    background-image: url(beeremoji.png);
+    left: 200px; 
+    top: 200px; 
+}
